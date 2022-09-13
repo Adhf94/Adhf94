@@ -2,7 +2,7 @@
 - 👀 I’m a tech and software development enthusiast.
 - 🌱 I’m currently learning software engineering with python.
 - 💞️ I’m looking to collaborate on any sort of projects!
-- 📫 How to reach me www.linkedin.com/in/adrian-hurtado-899220140
+
 
 
 
