@@ -2,8 +2,7 @@
 - 👀 I’m a tech and software development enthusiast.
 - 🌱 I’m currently learning software engineering with python.
 - 💞️ I’m looking to collaborate on any sort of projects!
-
-
+      https://adrianhurtado.page/
 
 
 
